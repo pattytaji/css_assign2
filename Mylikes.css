@@ -1,0 +1,58 @@
+
+.Ordered_list {
+    color: blue;
+    list-style-type: lower-roman;
+    font-style: inherit;
+   background-color: aqua;
+}
+#Ordered_list {
+    color: rgb(103, 17, 208);
+    list-style-type: upper-roman;
+    font-style: oblique;
+    background-color: rgb(189, 194, 194);
+    margin: 50px;
+    
+    
+}
+
+.Unordered_list {
+    color: yellow;
+    font-style: inherit;
+    background-color: #a63425;
+    
+}
+
+#Unordered_list {
+    color: red;
+    font-style: oblique;
+    background-color: yellowgreen;
+    margin: 50px;
+}
+
+p {
+    color: whitesmoke;
+    font-size: large;
+    font-style: oblique;   
+    
+
+}
+
+.Mylikes {
+    background-color: rgb(84, 88, 92);
+    border-color: rgb(44, 41, 41);
+    margin: 20px;
+    border-style: solid;
+    
+}
+
+#Mylikes {
+    background-color: rgb(78, 73, 73);
+    border-color: rgb(147, 6, 6);
+    padding: 50px;
+    
+}
+
+body {
+    margin: auto;
+    max-width: 500px;
+}
